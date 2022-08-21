@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.Ashokit.beans&apos; to &apos;03-SB-Bean-App/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;04-SB-Bean-App&apos;&#x0D;&#x0A;- Destination element: &apos;03-SB-Bean-App/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;04-SB-Bean-App/src/main/java/in.Ashokit.beans&apos;" description="Copy package" destination="=03-SB-Bean-App/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.Ashokit.beans" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1645191464680" version="1.0"/>
+</session>

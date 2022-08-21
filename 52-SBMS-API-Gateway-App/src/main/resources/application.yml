@@ -1,0 +1,23 @@
+server:
+  port: 4444
+
+spring:
+  application:
+    name: API-GATEWAY
+    
+zuul:
+  prefix: /ms
+  routes:
+    greet:
+      path: /api2/**
+      service-id: GREET-SERVICE
+    welcome:
+      path: /api1/**
+      service-id: WEELCOME-SERVICE
+      
+eureka:
+    client:
+      service-url: 
+        defaultZone: ${DISCOVERY_URL:http://loaclhost:9999}/eureka/
+    
+      

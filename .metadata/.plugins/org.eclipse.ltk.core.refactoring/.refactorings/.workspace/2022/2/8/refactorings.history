@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;08-Reflection-Api&apos; to &apos;07-Reflection-Api&apos;&#x0D;&#x0A;- Original element: &apos;08-Reflection-Api&apos;&#x0D;&#x0A;- Renamed element: &apos;08-Reflection-Api&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;08-Reflection-Api&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=08-Reflection-Api" name="07-Reflection-Api" references="true" stamp="1645196658257" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.sequrity.user",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sequrity.user'"
+  },
+  {
+    "name": "spring.sequrity.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sequrity.password'"
+  }
+]}

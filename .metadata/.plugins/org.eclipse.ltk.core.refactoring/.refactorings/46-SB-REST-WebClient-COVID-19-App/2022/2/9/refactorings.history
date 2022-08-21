@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.Ashokit.response.Covid19Response&apos; to &apos;CovidDataResponse&apos;&#x0D;&#x0A;- Original project: &apos;46-SB-REST-WebClient-COVID-19-App&apos;&#x0D;&#x0A;- Original element: &apos;in.Ashokit.response.Covid19Response&apos;&#x0D;&#x0A;- Renamed element: &apos;in.Ashokit.response.CovidDataResponse&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Covid19Response&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.Ashokit.response{Covid19Response.java[Covid19Response" matchStrategy="1" name="CovidDataResponse" qualified="false" references="true" similarDeclarations="false" stamp="1645705211404" textual="false" version="1.0"/>
+</session>

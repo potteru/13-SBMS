@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.Ashokit&apos; to &apos;52-SBMS-API-Gateway-App/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;51-1-SBMS-Eureka-Client-FiegnClient-App&apos;&#x0D;&#x0A;- Destination element: &apos;52-SBMS-API-Gateway-App/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;51-1-SBMS-Eureka-Client-FiegnClient-App/src/main/java/in.Ashokit&apos;" description="Copy package" destination="=52-SBMS-API-Gateway-App/src\/main\/java" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.Ashokit" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1645840757202" version="1.0"/>
+</session>

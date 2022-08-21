@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  
+myapp: 
+  messages:
+    welcomeMsg: Welcome to Ashok...! 
+    greetMsg : good Morning ...!!

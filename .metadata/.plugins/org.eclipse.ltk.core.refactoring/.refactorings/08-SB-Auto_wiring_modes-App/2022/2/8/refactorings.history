@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.Ashokit.XLReport&apos; to &apos;ExcelReport&apos;&#x0D;&#x0A;- Original project: &apos;08-SB-Auto_wiring_modes-App&apos;&#x0D;&#x0A;- Original element: &apos;in.Ashokit.XLReport&apos;&#x0D;&#x0A;- Renamed element: &apos;in.Ashokit.ExcelReport&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;XLReport&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.Ashokit{XLReport.java[XLReport" matchStrategy="1" name="ExcelReport" qualified="false" references="true" similarDeclarations="false" stamp="1645198475301" textual="false" version="1.0"/>
+</session>

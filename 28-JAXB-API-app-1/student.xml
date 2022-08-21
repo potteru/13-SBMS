@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student id="10">
+	<name>adimurthy</name>
+	<age>30</age>
+	<rank>5</rank>
+	<address>
+		<city>atp</city>
+		<country>india</country>
+		<state>ap</state>
+	</address>
+</student>

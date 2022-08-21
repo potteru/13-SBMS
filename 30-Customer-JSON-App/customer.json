@@ -1,0 +1,17 @@
+{
+	"policy": {
+		"policyName": "Jivan anand",
+		"startDate": "20-feb-2022",
+		"endDate": "20-feb-2022",
+		"premiumamt": 50000.0
+	},
+	"address": {
+		"city": "atp",
+		"state": "ap",
+		"country": "India"
+	},
+	"cId": 101,
+	"cName": "mahesh",
+	"cEmail": "acb@gmail.com",
+	"cAge": 30
+}

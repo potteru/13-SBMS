@@ -1,0 +1,6 @@
+server:
+  port: 2222
+  
+spring:
+  application:
+    name: GREET_SERVICE
